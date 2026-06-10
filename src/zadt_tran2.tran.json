@@ -7,7 +7,7 @@
   "generalInformation": {
     "transactionType": "parameterTransaction",
     "parameterTransaction": {
-      "parParentTransactionCode": "SM30",
+      "parParentTransactionCode": "SU01",
       "skipInitialScreenMode": "show"
     }
   },
