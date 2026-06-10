@@ -11,16 +11,10 @@
       "skipInitialScreenMode": "show"
     }
   },
-  "transactionRelationships": [
-    {
-      "relationshipType": "includeRole",
-      "relatedTcode": "SE06"
-    }
-  ],
   "userInterface": {
     "uiAttributes": {
-      "uiClassification": "easyWebTransaction",
       "pervasiveMode": "disabled",
+      "webguiMode": "notSupported",
       "platinMode": "notSupported",
       "win32Mode": "notSupported"
     }
