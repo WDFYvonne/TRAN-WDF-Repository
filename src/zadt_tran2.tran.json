@@ -21,8 +21,33 @@
   },
   "authorizations": {
     "authorizationDefaults": {
-      "maintenanceMode": "noDefaultValues",
+      "maintenanceMode": "manual",
       "authObjects": [
+        {
+          "authObjectName": "S_DEVELOP",
+          "authObjectFieldValues": [
+            {
+              "authFieldName": "ACTVT",
+              "authFieldLowValue": "02"
+            },
+            {
+              "authFieldName": "DEVCLASS",
+              "authFieldLowValue": ""
+            },
+            {
+              "authFieldName": "OBJNAME",
+              "authFieldLowValue": ""
+            },
+            {
+              "authFieldName": "OBJTYPE",
+              "authFieldLowValue": ""
+            },
+            {
+              "authFieldName": "P_GROUP",
+              "authFieldLowValue": ""
+            }
+          ]
+        },
         {
           "authObjectName": "S_TCODE",
           "maintenanceStatus": "noDefault"
